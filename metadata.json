@@ -1,0 +1,6 @@
+{
+  "name": "وقف السكرول",
+  "description": "صفحة هبوط تفاعلية لكتاب وقف السكرول - دليل عملي خلال 7 أيام لاستعادة وقتك المسروق والتخلص من إدمان الجوال.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
